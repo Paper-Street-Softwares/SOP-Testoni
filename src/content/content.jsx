@@ -192,7 +192,7 @@ const content = {
             <path d="m16 18 2 2 4-4" />
           </svg>
         ),
-        text: "Escritório de referência no centro de Joinville - SC, especialistas em áreas de maior demanda.",
+        text: "Escritório de referência no centro de Joinville - SC, com advogados especialistas nas áreas de maior demanda.",
       },
       secondaryCta: "Contato",
       images: {
@@ -408,42 +408,42 @@ const content = {
         "Estabelecemos nossa história em Joinville, prestando serviços jurídicos especializados.",
       paragraph: (
         <div>
-          A <strong>Testoni & Advogados</strong> nasceu no coração de{" "}
-          <strong>Joinville - SC</strong>, uma cidade estratégica e reconhecida
-          por seu expressivo polo industrial e comercial no norte catarinense.
-          Esta localização privilegiada nos permitiu especializar nossa atuação
-          para atender a crescente e complexa demanda por soluções jurídicas
-          inerentes a cidades desse porte, focando nas áreas de maior interesse
-          e procura do empresariado e da população local.
+          A Testoni & Advogados é um escritório consolidado em Joinville/SC,
+          dedicado à defesa dos direitos de pessoas e famílias que precisam de
+          orientação jurídica clara e segura em momentos importantes da vida.
+          Atuamos com técnica, estratégia e responsabilidade para proteger
+          trabalhadores, segurados, consumidores e famílias em situações que
+          envolvem trabalho, saúde, aposentadoria, relações familiares e
+          patrimônio.
         </div>
       ),
       buttonModalLabelAbout: "Continuar lendo",
       modal: (
         <p>
-          A <strong>Testoni & Advogados</strong> nasceu no coração de{" "}
-          <strong>Joinville - SC</strong>, uma cidade estratégica e reconhecida
-          por seu expressivo polo industrial e comercial no norte catarinense.
-          Esta localização privilegiada nos permitiu especializar nossa atuação
-          para atender a crescente e complexa demanda por soluções jurídicas
-          inerentes a cidades desse porte, focando nas áreas de maior interesse
-          e procura do empresariado e da população local.
+          A Testoni & Advogados é um escritório consolidado em Joinville/SC,
+          dedicado à defesa dos direitos de pessoas e famílias que precisam de
+          orientação jurídica clara e segura em momentos importantes da vida.
+          Atuamos com técnica, estratégia e responsabilidade para proteger
+          trabalhadores, segurados, consumidores e famílias em situações que
+          envolvem trabalho, saúde, aposentadoria, relações familiares e
+          patrimônio.
           <br />
           <br />
-          Nosso escritório se consolidou com excelência nas áreas de{" "}
-          <strong>
-            Direito Trabalhista, Previdenciário, Consumidor e Seguros
-          </strong>
-          , garantindo a proteção dos direitos e patrimônios de nossos clientes.
-          Além disso, oferecemos suporte jurídico de alto nível em áreas civis
-          essenciais, como <strong>Direito de Família e Propriedade</strong>,
-          assegurando um atendimento completo e multidisciplinar.
+          Sabemos que cada caso carrega uma história, uma preocupação e alguém
+          que precisa ser ouvido com respeito e atenção. Por isso, unimos rigor
+          jurídico a um atendimento humanizado e próximo, com forte atuação nas
+          áreas Trabalhista, Previdenciário, Seguros, Família, Inventário e
+          Consumidor. Cada situação é analisada de forma individualizada,
+          buscando soluções eficazes e realmente adequadas às necessidades de
+          quem nos procura.
           <br />
-          <br />O alicerce da <strong>Testoni & Advogados</strong> reside em
-          valores inegociáveis: Trabalho,{" "}
-          <strong>Honestidade, Comprometimento e Transparência</strong>. É por
-          meio destes princípios que prestamos serviços jurídicos personalizados
-          e especializados, dedicados integralmente à busca pela plena
-          satisfação e sucesso de cada cliente e parceiro.
+          <br />
+          Guiados por valores inegociáveis — ética, transparência e
+          comprometimento — conduzimos cada etapa do atendimento com clareza e
+          dedicação. Na Testoni & Advogados, nosso propósito é transformar
+          desafios jurídicos em proteção e tranquilidade, garantindo que cada
+          cliente se sinta amparado por uma advocacia séria, responsável e
+          verdadeiramente comprometida com a defesa dos seus direitos.
         </p>
       ),
       paragraphModalCta: "Entre em contato",
@@ -886,7 +886,7 @@ const content = {
       footerDivulgacaoText: "Gostaria de ter um site como este? Clique aqui",
       midSectionName: "Até mais",
       footerText:
-        "Agradecemos sua visita! Esperamos que em breve você se torne nosso cliente e desfrute de todos os benefícios que oferecemos.",
+        "Agradecemos sua visita. Conte com a Testoni & Advogados sempre que precisar de orientação jurídica séria, responsável e transparente.",
       footerSocialText: "Siga a gente nas redes sociais:",
       footerNavegacaoText: "NAVEGAÇÃO",
     },

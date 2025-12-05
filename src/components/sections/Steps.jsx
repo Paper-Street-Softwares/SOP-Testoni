@@ -28,8 +28,7 @@ export default function Steps({ colorMode }) {
   return (
     <SectionArea className={`${bgClass}`} paddingbot={true}>
       <SectionWrapper className="flex flex-col desktop1:flex-row-reverse gap-[40px] desktop2:gap-0 desktop1:justify-between">
-        <MotionDivDownToUp className="relative w-[90%] desktop1:w-[415px] desktop2:w-[450px] flex justify-center rounded-xl shadow-custom-opacity shadow-shadowSteps/20">
-          {/* <GalleryAbout /> */}
+        {/* <MotionDivDownToUp className="relative w-[90%] desktop1:w-[415px] desktop2:w-[450px] flex justify-center rounded-xl shadow-custom-opacity shadow-shadowSteps/20">
           <picture>
             <source
               srcSet={content.texts.steps.imgMobile}
@@ -42,19 +41,19 @@ export default function Steps({ colorMode }) {
               loading="lazy"
             />
           </picture>
-        </MotionDivDownToUp>
+        </MotionDivDownToUp> */}
 
-        <div className="desktop1:w-[550px] desktop2:w-[570px]">
+        <div className="desktop1:w-full">
           <SectionHeader
-            className="hidden text-center desktop1:flex"
+            className="text-center mb-[26px] tablet1:mb-[40px] desktop1:mb-[72px] hidden desktop1:flex"
             miniTitle={content.texts.steps.miniTag}
             sectionHeaderTitle={content.texts.steps.title}
             sectionHeaderSubtitle={content.texts.steps.subtitle}
-            type="article"
+            type=""
             titleColorSet={titleColor}
           />
           <SectionHeader
-            className="text-center desktop1:hidden"
+            className="text-center mb-[26px] tablet1:mb-[40px] desktop1:mb-[72px] desktop1:hidden"
             miniTitle={content.texts.steps.miniTag}
             sectionHeaderTitle={content.texts.steps.title}
             sectionHeaderSubtitle={content.texts.steps.subtitle}

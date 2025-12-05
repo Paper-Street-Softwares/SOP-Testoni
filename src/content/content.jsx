@@ -525,9 +525,9 @@ const content = {
       backgroundImg: ctaWhatsappImgBg,
       title: (
         <h1>
-          <span className="text-primary">Dúvidas?</span> Entre em contato
+          <span className="">Dúvidas?</span> Entre em contato
           conosco para podermos lhe ajudar,{" "}
-          <span className="text-primary">estamos te esperando.</span>
+          <span className="">estamos te esperando.</span>
         </h1>
       ),
       subtitleDireita: (
